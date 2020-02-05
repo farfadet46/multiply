@@ -1,8 +1,8 @@
 ﻿{
 	"id": "com.farfatelier.calcul",
 	"version": "0.1",
-	"name": "calculs",
-	"description": "apprend a calculer de tete",
+	"name": "calculs_multiply",
+	"description": "apprend les tables de multiplications de tete",
 	"author": "farfadet46",
 	"email": "",
 	"website": "",
