@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
-<widget id="com.farfatelier.calcul" version="0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.farfatelier.calcul_multiply" version="0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
 	<name>calculs_multiply</name>
 	<description>apprend les tables de multiplications de tete</description>
 	<author>farfadet46</author>
